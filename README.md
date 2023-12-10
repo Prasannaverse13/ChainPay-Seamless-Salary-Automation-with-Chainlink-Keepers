@@ -3,6 +3,9 @@
 ## Description:
 This is a simple employee salary payment automation application that was built using Chainlink Keepers. Chainlink Keepers allow for smart contract automation which allows for the employer, in this case, to simply fund the contract with ETH and LINK to start automating salary payments in ETH to their desired employee on a biweekly basis.
 
+![Screenshot (438)](https://github.com/Prasannaverse13/ChainPay-Seamless-Salary-Automation-with-Chainlink-Keepers/assets/116105281/ed992781-cda4-4eab-81bf-0d28c1a66724)
+
+
 ## Website/Application: 
 https://eth-salary-automation.vercel.app/
 
